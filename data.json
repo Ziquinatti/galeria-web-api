@@ -1,0 +1,199 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "projeto": "Landing page para loja de artigos de pesca",
+            "cliente": "Leonardo Krugel",
+            "developer": "Felipe Amadori",
+            "tecnologias": "HTML, CSS, Bootstrap",
+            "repositorio": "https://github.com/elc1090/project1-Felipeamadori"
+        },
+        {
+            "id": 2,
+            "projeto": "Landing page restaurante de comida japonesa",
+            "cliente": "Felipe Amadori",
+            "developer": "Leonardo Cargnin Krugel",
+            "tecnologias": "HTML, CSS, Bootstrap",
+            "repositorio": "https://github.com/elc1090/project1-lckrugel",
+            "hospedagem": "GitHub Pages"
+        },
+        {
+            "id": 3,
+            "projeto": "Portfolio",
+            "cliente": "Gilson Garcia Da Silva Júnior",
+            "developer": "Gabriele Soares Quevedo",
+            "tecnologias": "HTML, CSS, Bootstrap",
+            "repositorio": "https://github.com/elc1090/project1-gsquevedo"
+        },
+        {
+            "id": 4,
+            "projeto": "Portifolio Pessoal",
+            "cliente": "Roberto Jose Mahl",
+            "developer": "Luana Ferreira Oliveira",
+            "tecnologias": "HTML, CSS, Java Script",
+            "repositorio": "https://github.com/elc1090/project1-luanaFOliveira"
+        },
+        {
+            "id": 5,
+            "projeto": "Portfólio pessoal",
+            "cliente": "Gabriele Soares Quevedo",
+            "developer": "João Vitor Forgearini Beltrame",
+            "tecnologias": "HTML, CSS, JavaScript, Bootstrap",
+            "repositorio": "https://github.com/elc1090/project1-joaov230",
+            "hospedagem": "Github IO"
+        },
+        {
+            "id": 6,
+            "projeto": "Portfólio de arte",
+            "cliente": "Luana Ferreira Oliveira",
+            "developer": "Roberto José Mahl",
+            "tecnologias": "HTML, CSS, Javascript, Php, Template",
+            "repositorio": "https://github.com/elc1090/project1-robertomahl"
+        },
+        {
+            "id": 7,
+            "projeto": "Motivos para jogar Dungeons & Dragons",
+            "cliente": "Leonardo da Veiga",
+            "developer": "Marcos Eduardo",
+            "tecnologias": "HTML, CSS",
+            "repositorio": "https://github.com/elc1090/project1-marcola47",
+            "hospedagem": "https://project1-marcola47.netlify.app/"
+        },
+        {
+            "id": 8,
+            "projeto": "Página de artigo Wikipédia",
+            "cliente": "Thiago Chagas",
+            "developer": "Gustavo Reis",
+            "tecnologias": "HTML, CSS",
+            "repositorio": "https://github.com/elc1090/project1-GustavoReis14"
+        },
+        {
+            "id": 9,
+            "projeto": "Portifólio Pessoal",
+            "cliente": "João Vitor Forgerini Beltrame",
+            "developer": "Gilson Garcia da Silva",
+            "tecnologias": "HTML, CSS, JavaScript, PHP",
+            "repositorio": "https://github.com/elc1090/project1-Gilsonlgd"
+        },
+        {
+            "id": 10,
+            "projeto": "Portfolio pessoal",
+            "cliente": "Guilherme",
+            "developer": "Alexandre Chagas Brites",
+            "tecnologias": "HTML, CSS, Tailwind CSS",
+            "repositorio": "https://github.com/elc1090/project1-Alexandre-ChagasBrites",
+            "hospedagem": "GitHub Pages"
+        },
+        {
+            "id": 11,
+            "projeto": "Página de notícia",
+            "cliente": "Gustavo Reis",
+            "developer": "Tiago Chagas",
+            "tecnologias": "HTML, CSS, Bootstrap",
+            "repositorio": "https://github.com/trchagas/sistemasweb_trabs"
+        },
+        {
+            "id": 12,
+            "projeto": "Página de notícia",
+            "cliente": "Gustavo Reis",
+            "developer": "Tiago Chagas",
+            "tecnologias": "HTML, CSS, Bootstrap",
+            "repositorio": "https://github.com/elc1090/project1-trchagas"
+        },
+        {
+            "id": 13,
+            "projeto": "Landing page",
+            "cliente": "Non-Existing Game",
+            "developer": "Miguel Mazuim da Silva",
+            "tecnologias": "HTML, CSS, Templates",
+            "repositorio": "https://github.com/elc1090/project1-mazuimmiguel",
+            "hospedagem": "Gatsby / Netlify"
+        },
+        {
+            "id": 14,
+            "projeto": "Portfólio Pessoal",
+            "cliente": "Calíope (namorada)",
+            "developer": "Matheus Delazeri Souza",
+            "tecnologias": "React.js",
+            "repositorio": "https://github.com/elc1090/project1-matheus-delazeri",
+            "hospedagem": "Heroku / Replit / GitHub Pages"
+        },
+        {
+            "id": 15,
+            "projeto": "Portfolio",
+            "cliente": "Bruno Frizzo",
+            "developer": "Wagner Spinato Chittó",
+            "tecnologias": "HTML, CSS",
+            "repositorio": "https://github.com/elc1090/project1-Treorai"
+        },
+        {
+            "id": 16,
+            "projeto": "Portfolio",
+            "cliente": "Miguel",
+            "developer": "Emilio",
+            "tecnologias": "Gatsby",
+            "repositorio": "https://github.com/elc1090/project1-emiliopedrollo",
+            "hospedagem": "Replit"
+        },
+        {
+            "id": 17,
+            "projeto": "Pizzaria do Julin",
+            "cliente": "Julio Polmann",
+            "developer": "Andriza Campanhol",
+            "tecnologias": "HTML, CSS, Bootstrap",
+            "repositorio": "https://github.com/elc1090/project1-AndrizaCampanhol",
+            "hospedagem": "GitHub"
+        },
+        {
+            "id": 18,
+            "projeto": "Site de adoção de animais",
+            "cliente": "Andriza Campanhol",
+            "developer": "Júlio César Polmann Cuencas",
+            "tecnologias": "Tailwind, Node",
+            "repositorio": "https://github.com/elc1090/project1-Julio-Cesar-PC"
+        },
+        {
+            "id": 19,
+            "projeto": "Wagner`s portfolio",
+            "cliente": "Wagner",
+            "developer": "Bruno Frizzo",
+            "tecnologias": "Tailwind",
+            "repositorio": "https://github.com/elc1090/project1-brunofrizzo"
+        },
+        {
+            "id": 20,
+            "projeto": "Top 5 melhores jogos de ps5",
+            "cliente": "Daniel Santos",
+            "developer": "Gabriel Caetano",
+            "tecnologias": "HTML, Bootstrap",
+            "repositorio": "https://github.com/elc1090/project1-gabriel-caetano",
+            "hospedagem": "GitHub Pages"
+        },
+        {
+            "id": 21,
+            "projeto": "Ana's puppies",
+            "cliente": "Ana Clara",
+            "developer": "Felipe",
+            "tecnologias": "HTML, Vite, Tailwind",
+            "repositorio": "https://github.com/elc1090/project1-Strke12i",
+            "hospedagem": "GitHub Pages"
+        },
+        {
+            "id": 22,
+            "projeto": "Docker First Steps",
+            "cliente": "Caetano",
+            "developer": "Daniel dos Santos Pereira",
+            "tecnologias": "HTML, CSS, JS",
+            "repositorio": "https://github.com/elc1090/project1-danieldspx",
+            "hospedagem": "GitHub Pages"
+        },
+        {
+            "id": 23,
+            "projeto": "Portfolio",
+            "cliente": "Alexandre",
+            "developer": "Guilherme",
+            "tecnologias": "HTML, CSS, Tailwind CSS",
+            "repositorio": "https://github.com/elc1090/project1-glhrmrg"
+        }
+    ]
+}
