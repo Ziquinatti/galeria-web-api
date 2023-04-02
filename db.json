@@ -7,6 +7,7 @@
             "developer": "Felipe Amadori",
             "tecnologias": "HTML, CSS, Bootstrap",
             "repositorio": "https://github.com/elc1090/project1-Felipeamadori"
+            "hospedagem": ""
         },
         {
             "id": 2,
@@ -15,7 +16,7 @@
             "developer": "Leonardo Cargnin Krugel",
             "tecnologias": "HTML, CSS, Bootstrap",
             "repositorio": "https://github.com/elc1090/project1-lckrugel",
-            "hospedagem": "GitHub Pages"
+            "hospedagem": ""
         },
         {
             "id": 3,
@@ -23,7 +24,8 @@
             "cliente": "Gilson Garcia Da Silva Júnior",
             "developer": "Gabriele Soares Quevedo",
             "tecnologias": "HTML, CSS, Bootstrap",
-            "repositorio": "https://github.com/elc1090/project1-gsquevedo"
+            "repositorio": "https://github.com/elc1090/project1-gsquevedo",
+            "hospedagem": ""
         },
         {
             "id": 4,
@@ -31,7 +33,8 @@
             "cliente": "Roberto Jose Mahl",
             "developer": "Luana Ferreira Oliveira",
             "tecnologias": "HTML, CSS, Java Script",
-            "repositorio": "https://github.com/elc1090/project1-luanaFOliveira"
+            "repositorio": "https://github.com/elc1090/project1-luanaFOliveira",
+            "hospedagem": ""
         },
         {
             "id": 5,
@@ -40,7 +43,7 @@
             "developer": "João Vitor Forgearini Beltrame",
             "tecnologias": "HTML, CSS, JavaScript, Bootstrap",
             "repositorio": "https://github.com/elc1090/project1-joaov230",
-            "hospedagem": "Github IO"
+            "hospedagem": ""
         },
         {
             "id": 6,
@@ -48,7 +51,8 @@
             "cliente": "Luana Ferreira Oliveira",
             "developer": "Roberto José Mahl",
             "tecnologias": "HTML, CSS, Javascript, Php, Template",
-            "repositorio": "https://github.com/elc1090/project1-robertomahl"
+            "repositorio": "https://github.com/elc1090/project1-robertomahl",
+            "hospedagem": ""
         },
         {
             "id": 7,
@@ -65,7 +69,8 @@
             "cliente": "Thiago Chagas",
             "developer": "Gustavo Reis",
             "tecnologias": "HTML, CSS",
-            "repositorio": "https://github.com/elc1090/project1-GustavoReis14"
+            "repositorio": "https://github.com/elc1090/project1-GustavoReis14",
+            "hospedagem": ""
         },
         {
             "id": 9,
@@ -73,7 +78,8 @@
             "cliente": "João Vitor Forgerini Beltrame",
             "developer": "Gilson Garcia da Silva",
             "tecnologias": "HTML, CSS, JavaScript, PHP",
-            "repositorio": "https://github.com/elc1090/project1-Gilsonlgd"
+            "repositorio": "https://github.com/elc1090/project1-Gilsonlgd",
+            "hospedagem": ""
         },
         {
             "id": 10,
@@ -82,7 +88,7 @@
             "developer": "Alexandre Chagas Brites",
             "tecnologias": "HTML, CSS, Tailwind CSS",
             "repositorio": "https://github.com/elc1090/project1-Alexandre-ChagasBrites",
-            "hospedagem": "GitHub Pages"
+            "hospedagem": ""
         },
         {
             "id": 11,
@@ -90,7 +96,8 @@
             "cliente": "Gustavo Reis",
             "developer": "Tiago Chagas",
             "tecnologias": "HTML, CSS, Bootstrap",
-            "repositorio": "https://github.com/trchagas/sistemasweb_trabs"
+            "repositorio": "https://github.com/trchagas/sistemasweb_trabs",
+            "hospedagem": ""
         },
         {
             "id": 12,
@@ -98,7 +105,8 @@
             "cliente": "Gustavo Reis",
             "developer": "Tiago Chagas",
             "tecnologias": "HTML, CSS, Bootstrap",
-            "repositorio": "https://github.com/elc1090/project1-trchagas"
+            "repositorio": "https://github.com/elc1090/project1-trchagas",
+            "hospedagem": ""
         },
         {
             "id": 13,
@@ -107,7 +115,7 @@
             "developer": "Miguel Mazuim da Silva",
             "tecnologias": "HTML, CSS, Templates",
             "repositorio": "https://github.com/elc1090/project1-mazuimmiguel",
-            "hospedagem": "Gatsby / Netlify"
+            "hospedagem": ""
         },
         {
             "id": 14,
@@ -116,7 +124,7 @@
             "developer": "Matheus Delazeri Souza",
             "tecnologias": "React.js",
             "repositorio": "https://github.com/elc1090/project1-matheus-delazeri",
-            "hospedagem": "Heroku / Replit / GitHub Pages"
+            "hospedagem": ""
         },
         {
             "id": 15,
@@ -124,7 +132,8 @@
             "cliente": "Bruno Frizzo",
             "developer": "Wagner Spinato Chittó",
             "tecnologias": "HTML, CSS",
-            "repositorio": "https://github.com/elc1090/project1-Treorai"
+            "repositorio": "https://github.com/elc1090/project1-Treorai",
+            "hospedagem": ""
         },
         {
             "id": 16,
@@ -133,7 +142,7 @@
             "developer": "Emilio",
             "tecnologias": "Gatsby",
             "repositorio": "https://github.com/elc1090/project1-emiliopedrollo",
-            "hospedagem": "Replit"
+            "hospedagem": ""
         },
         {
             "id": 17,
@@ -142,7 +151,7 @@
             "developer": "Andriza Campanhol",
             "tecnologias": "HTML, CSS, Bootstrap",
             "repositorio": "https://github.com/elc1090/project1-AndrizaCampanhol",
-            "hospedagem": "GitHub"
+            "hospedagem": ""
         },
         {
             "id": 18,
@@ -150,7 +159,8 @@
             "cliente": "Andriza Campanhol",
             "developer": "Júlio César Polmann Cuencas",
             "tecnologias": "Tailwind, Node",
-            "repositorio": "https://github.com/elc1090/project1-Julio-Cesar-PC"
+            "repositorio": "https://github.com/elc1090/project1-Julio-Cesar-PC",
+            "hospedagem": ""
         },
         {
             "id": 19,
@@ -158,7 +168,8 @@
             "cliente": "Wagner",
             "developer": "Bruno Frizzo",
             "tecnologias": "Tailwind",
-            "repositorio": "https://github.com/elc1090/project1-brunofrizzo"
+            "repositorio": "https://github.com/elc1090/project1-brunofrizzo",
+            "hospedagem": ""
         },
         {
             "id": 20,
@@ -167,7 +178,7 @@
             "developer": "Gabriel Caetano",
             "tecnologias": "HTML, Bootstrap",
             "repositorio": "https://github.com/elc1090/project1-gabriel-caetano",
-            "hospedagem": "GitHub Pages"
+            "hospedagem": ""
         },
         {
             "id": 21,
@@ -176,7 +187,7 @@
             "developer": "Felipe",
             "tecnologias": "HTML, Vite, Tailwind",
             "repositorio": "https://github.com/elc1090/project1-Strke12i",
-            "hospedagem": "GitHub Pages"
+            "hospedagem": ""
         },
         {
             "id": 22,
@@ -185,7 +196,7 @@
             "developer": "Daniel dos Santos Pereira",
             "tecnologias": "HTML, CSS, JS",
             "repositorio": "https://github.com/elc1090/project1-danieldspx",
-            "hospedagem": "GitHub Pages"
+            "hospedagem": ""
         },
         {
             "id": 23,
@@ -193,7 +204,8 @@
             "cliente": "Alexandre",
             "developer": "Guilherme",
             "tecnologias": "HTML, CSS, Tailwind CSS",
-            "repositorio": "https://github.com/elc1090/project1-glhrmrg"
+            "repositorio": "https://github.com/elc1090/project1-glhrmrg",
+            "hospedagem": ""
         }
     ]
 }
